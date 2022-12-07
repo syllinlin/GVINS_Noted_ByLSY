@@ -1,3 +1,5 @@
+相关原理推导，详见知乎：https://zhuanlan.zhihu.com/p/566273634 
+
 # GVINS
 
 roslaunch gvins visensor_f9p.launch
